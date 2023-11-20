@@ -1,0 +1,72 @@
+[
+  {
+    "id_emisor": 8,
+    "nombre_emisor": "Tulio",
+    "id_receptor": 5,
+    "nombre_receptor": "Edison",
+    "mensaje": "Hola Edison, soy Tulio. Amigos!!!."
+  },
+  {
+    "id_emisor": 0,
+    "nombre_emisor": "Juan",
+    "id_receptor": 2,
+    "nombre_receptor": "Luis",
+    "mensaje": "Hola Luis, soy Juan. Amigos!!!."
+  },
+  {
+    "id_emisor": 5,
+    "nombre_emisor": "Edison",
+    "id_receptor": 7,
+    "nombre_receptor": "Rafaella",
+    "mensaje": "Hola Rafaella, soy Edison. Amigos!!!."
+  },
+  {
+    "id_emisor": 7,
+    "nombre_emisor": "Rafaella",
+    "id_receptor": 13,
+    "nombre_receptor": "Sofia",
+    "mensaje": "Hola Sofia, soy Rafaella. Amigos!!!."
+  },
+  {
+    "id_emisor": 9,
+    "nombre_emisor": "Laura",
+    "id_receptor": 11,
+    "nombre_receptor": "Miguel",
+    "mensaje": "Hola Miguel, soy Laura. Amigos!!!."
+  },
+  {
+    "id_emisor": 6,
+    "nombre_emisor": "Gertrudis",
+    "id_receptor": 4,
+    "nombre_receptor": "Pedro",
+    "mensaje": "Hola Pedro, soy Gertrudis. Amigos!!!."
+  },
+  {
+    "id_emisor": 9,
+    "nombre_emisor": "Laura",
+    "id_receptor": 4,
+    "nombre_receptor": "Pedro",
+    "mensaje": "Hola Pedro, soy Laura. Amigos!!!."
+  },
+  {
+    "id_emisor": 3,
+    "nombre_emisor": "Ana",
+    "id_receptor": 4,
+    "nombre_receptor": "Pedro",
+    "mensaje": "Hola Pedro, soy Ana. Amigos!!!."
+  },
+  {
+    "id_emisor": 2,
+    "nombre_emisor": "Luis",
+    "id_receptor": 8,
+    "nombre_receptor": "Tulio",
+    "mensaje": "Hola Tulio, soy Luis. Amigos!!!."
+  },
+  {
+    "id_emisor": 12,
+    "nombre_emisor": "Elena",
+    "id_receptor": 4,
+    "nombre_receptor": "Pedro",
+    "mensaje": "Hola Pedro, soy Elena. Amigos!!!."
+  }
+]
